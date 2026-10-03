@@ -14,7 +14,7 @@
   <a href="https://github.com/GhostNoodl/Nuvio/issues">Report a bug</a>
 </p>
 
-> **First public release coming soon.** This repository is Nuvio’s release and feedback home. There is no public APK release yet.
+> **Nuvio 0.35.4 is available.** [Download the Android APK](https://github.com/GhostNoodl/Nuvio/releases/download/v0.35.4/Nuvio-0.35.4-embedded.apk) · [Release notes, checksums, and sources](https://github.com/GhostNoodl/Nuvio/releases/tag/v0.35.4)
 
 ## A shelf that feels like yours
 
@@ -46,7 +46,7 @@ Nuvio has been playtested on the **AYN Odin 3**. Other phones and handhelds need
 
 ## Getting started
 
-Once the first release is available:
+Start with the [latest release](https://github.com/GhostNoodl/Nuvio/releases/latest):
 
 1. Download the Nuvio APK from [Releases](https://github.com/GhostNoodl/Nuvio/releases) and install it. Android may ask you to allow installation from your browser or file manager.
 2. Open **Add game**. Choose a folder or ZIP for Ren’Py / RPG Maker, or **Windows / Unity** for automatic setup of an extracted Windows game.
@@ -80,4 +80,4 @@ Have an idea? Use the feature-request template. More devices and focused compati
 
 Nuvio is a native Kotlin / Jetpack Compose app. Its engine integrations build on work from **Ren’Py, mkxp-z, FluidSynth, Wine, Box64, Winlator**, and their dependencies. Artwork services include **VNDB, SteamGridDB, and IGDB**. Nuvio is an independent project and is not endorsed by those projects or services.
 
-Original Nuvio code and documentation use the [MIT license](LICENSE). Third-party components retain their own licenses; MIT does **not** relicense the combined runtime. Release source archives and component notices will accompany distribution. This repository currently serves as the release landing page, rather than the complete development checkout.
+Original Nuvio code and documentation use the [MIT license](LICENSE). Third-party components retain their own licenses; MIT does **not** relicense the combined runtime. Release source archives and component notices are attached to each release. This repository currently serves as the release landing page, rather than the complete development checkout.
