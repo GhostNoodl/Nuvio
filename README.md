@@ -9,12 +9,13 @@
 
 <p align="center">
   <a href="https://github.com/GhostNoodl/Nuvio/releases">Releases</a> ·
+  <a href="CHANGELOG.md">Changelog</a> ·
   <a href="#getting-started">Getting started</a> ·
   <a href="#game-compatibility">Compatibility</a> ·
   <a href="https://github.com/GhostNoodl/Nuvio/issues">Report a bug</a>
 </p>
 
-> **Nuvio 0.35.7 is available.** [Download the Android APK](https://github.com/GhostNoodl/Nuvio/releases/download/v0.35.7/Nuvio-0.35.7-embedded.apk) · [Release notes, checksums, and sources](https://github.com/GhostNoodl/Nuvio/releases/tag/v0.35.7)
+> **Nuvio 0.35.8 is available.** [Download the Android APK](https://github.com/GhostNoodl/Nuvio/releases/download/v0.35.8/Nuvio-0.35.8-embedded.apk) · [Release notes, checksums, and sources](https://github.com/GhostNoodl/Nuvio/releases/tag/v0.35.8)
 
 ## A shelf that feels like yours
 
